@@ -1,0 +1,23 @@
+{
+  "name": "threejs-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kghumaan/threejs-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kghumaan/threejs-journey/issues"
+  },
+  "homepage": "https://github.com/kghumaan/threejs-journey#readme",
+  "devDependencies": {
+    "@types/three": "^0.133.1"
+  }
+}
